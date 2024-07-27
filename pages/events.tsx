@@ -30,7 +30,7 @@ export default function Events() {
 			<div className="flex  w-full flex-col items-center bg-white p-10 ">
 				<h1 className="text-7xl text-primary">Event Plan</h1>
 				<h3 className="text-4xl text-secondary">
-					17 Nov - 19 Nov 2023
+					23 Nov - 25 Nov 2024
 				</h3>
 				<EventsDates />
 				<Phase />

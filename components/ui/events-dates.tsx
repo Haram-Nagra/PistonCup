@@ -2,15 +2,15 @@ export default function EventsDates() {
     const team = [
         {
             day: "Day 1",
-            events: [["Welcome Teams", "9 AM"], ["Parks cars at Designated Areas", "before 5 PM"], ["Car show", "5:30-10 PM"]],
+            events: [["Welcome Teams"], ["Parks cars at Designated Areas"], ["Car show"]],
         },
         {
             day: "Day 2",
-            events: [["Technical Inspection", "9 AM - 5 PM"], ["Dynamic Events", "Ends at 7 PM"], ["Theme Dinner", "Until 10 PM"]],
+            events: [["Technical Inspection"], ["Dynamic Events"], ["Theme Dinner"]],
         },
         {
             day: "Day 3",
-            events: [["Endurance Testing", "9 AM - 3 PM"], ["Lunch", "1-3 PM"], ["Closing", "3-5 PM"], ["Panel Decision Time", "3-4 PM"], ["Hi - Tea", "5-6 PM"]],
+            events: [["Endurance Testing"], ["Lunch"], ["Closing"], ["Panel Decision Time"], ["Hi - Tea"]],
         }
     ]
 

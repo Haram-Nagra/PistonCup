@@ -1,21 +1,32 @@
 import { ThreeDCard } from "./3d-card"
 
+
 export default function TheTeam() {
 	const team = [
 		{
-			name: "John Doe",
-			role: "CEO",
-			image: "https://source.unsplash.com/random/?Cryptocurrency&1"
+			name: "Maaz Ali",
+			role: "President",
+			image: "/team/maaz.jpg"
 		},
 		{
-			name: "Jane Doe",
-			role: "CTO",
-			image: "https://source.unsplash.com/random/?Cryptocurrency&1"
+			name: "Muhammad Ahmed",
+			role: "VP Media",
+			image: "/team/ahmed.jpg"
 		},
 		{
-			name: "John Smith",
-			role: "COO",
-			image: "https://source.unsplash.com/random/?Cryptocurrency&1"
+			name: "Ahmed Ayub",
+			role: "VP Technical",
+			image: "/team/ayub.jpg"
+		},
+		{
+			name: "Asjad Ali",
+			role: "VP Operations",
+			image: "/team/asjad.jpg"
+		},
+		{
+			name: "Rameela Adil",
+			role: "VP Outreach",
+			image: "/team/rameela .jpg"
 		}
 	]
 

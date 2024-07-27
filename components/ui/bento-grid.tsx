@@ -70,6 +70,6 @@ const cards = [
 		id: 3,
 		content: <SkeletonThree />,
 		className: "md:col-span-2",
-		thumbnail: "/autoshow.jpg"
+		thumbnail: "/team/highlight1.jpg"
 	}
 ]

@@ -68,6 +68,5 @@ const testimonials = [
 	"/sponsors/1.png",
 	"/sponsors/2.png",
 	"/sponsors/3.png",
-	"/sponsors/4.png",
 	"/sponsors/5.png"
 ]
